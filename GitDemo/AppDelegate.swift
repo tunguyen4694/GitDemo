@@ -33,8 +33,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
-
-
-// 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
-// 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
-// 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
